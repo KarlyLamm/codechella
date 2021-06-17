@@ -1,4 +1,10 @@
 # Twitter Hackathon Project
+# Technologies used:
+- React (Frontend)
+- Flask (Backend)
+- IBM Watson
+- d3.js
+
 ## [DevPost Link](https://devpost.com/software/revamp-gozvbt/joins/TIpiCayVUwThQSfL_w-jYA)
 ## Inspiration
 
